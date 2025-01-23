@@ -26,3 +26,7 @@
 **Pressure plate recipe:**
 ---
 ![3 blocks placed on the bottom row to craft 3 pressure plates](https://cdn.modrinth.com/data/cached_images/2e4cf1c7dee1563961ed1d58eef680a84cfe4f71.png)
+
+**Glass panes recipe:**
+---
+![1 glass block to craft 4 glass panes](https://cdn.modrinth.com/data/cached_images/0dd7e8c5dd60ee99cd54e5c3696c81278cff90c6.png)
