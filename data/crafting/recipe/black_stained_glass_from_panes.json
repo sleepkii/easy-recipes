@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:black_stained_glass_pane"
-        }
+        "#": "minecraft:black_stained_glass_pane"
     },
     "result": {
         "id": "minecraft:black_stained_glass",

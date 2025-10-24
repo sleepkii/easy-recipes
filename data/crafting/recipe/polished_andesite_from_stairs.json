@@ -5,9 +5,7 @@
         "AA"
     ],
     "key": {
-        "A": {
-            "item": "minecraft:polished_andesite_stairs"
-        }
+        "A": "minecraft:polished_andesite_stairs"
     },
     "result": {
         "id": "minecraft:polished_andesite",

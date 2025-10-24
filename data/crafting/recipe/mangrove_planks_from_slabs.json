@@ -5,9 +5,7 @@
         "_"
     ],
     "key": {
-        "_": {
-            "item": "minecraft:mangrove_slab"
-        }
+        "_": "minecraft:mangrove_slab"
     },
     "result": {
         "id": "minecraft:mangrove_planks",

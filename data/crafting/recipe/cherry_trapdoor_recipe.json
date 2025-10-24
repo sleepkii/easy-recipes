@@ -4,9 +4,7 @@
         "__"
     ],
     "key": {
-        "_": {
-            "item": "minecraft:cherry_slab"
-        }
+        "_": "minecraft:cherry_slab"
     },
     "result": {
         "id": "minecraft:cherry_trapdoor",

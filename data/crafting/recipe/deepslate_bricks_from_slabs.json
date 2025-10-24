@@ -5,9 +5,7 @@
         "_"
     ],
     "key": {
-        "_": {
-            "item": "minecraft:deepslate_brick_slab"
-        }
+        "_": "minecraft:deepslate_brick_slab"
     },
     "result": {
         "id": "minecraft:deepslate_bricks",

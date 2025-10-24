@@ -5,9 +5,7 @@
         "_"
     ],
     "key": {
-        "_": {
-            "item": "minecraft:polished_blackstone_slab"
-        }
+        "_": "minecraft:polished_blackstone_slab"
     },
     "result": {
         "id": "minecraft:air",

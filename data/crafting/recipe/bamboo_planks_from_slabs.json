@@ -5,9 +5,7 @@
         "_"
     ],
     "key": {
-        "_": {
-            "item": "minecraft:bamboo_slab"
-        }
+        "_": "minecraft:bamboo_slab"
     },
     "result": {
         "id": "minecraft:bamboo_planks",

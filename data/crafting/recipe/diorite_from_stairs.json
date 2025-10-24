@@ -5,9 +5,7 @@
         "AA"
     ],
     "key": {
-        "A": {
-            "item": "minecraft:diorite_stairs"
-        }
+        "A": "minecraft:diorite_stairs"
     },
     "result": {
         "id": "minecraft:diorite",

@@ -5,9 +5,7 @@
         "AA"
     ],
     "key": {
-        "A": {
-            "item": "minecraft:mossy_cobblestone_stairs"
-        }
+        "A": "minecraft:mossy_cobblestone_stairs"
     },
     "result": {
         "id": "minecraft:mossy_cobblestone",

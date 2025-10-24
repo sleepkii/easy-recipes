@@ -5,9 +5,7 @@
         "AA"
     ],
     "key": {
-        "A": {
-            "item": "minecraft:polished_blackstone_brick_stairs"
-        }
+        "A": "minecraft:polished_blackstone_brick_stairs"
     },
     "result": {
         "id": "minecraft:polished_blackstone_bricks",

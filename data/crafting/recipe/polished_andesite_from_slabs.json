@@ -5,9 +5,7 @@
         "_"
     ],
     "key": {
-        "_": {
-            "item": "minecraft:polished_andesite_slab"
-        }
+        "_": "minecraft:polished_andesite_slab"
     },
     "result": {
         "id": "minecraft:polished_andesite",

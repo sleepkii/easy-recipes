@@ -5,9 +5,7 @@
         "AA"
     ],
     "key": {
-        "A": {
-            "item": "minecraft:end_stone_brick_stairs"
-        }
+        "A": "minecraft:end_stone_brick_stairs"
     },
     "result": {
         "id": "minecraft:end_stone_bricks",

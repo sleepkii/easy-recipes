@@ -4,9 +4,7 @@
         "__"
     ],
     "key": {
-        "_": {
-            "item": "minecraft:acacia_slab"
-        }
+        "_": "minecraft:acacia_slab"
     },
     "result": {
         "id": "minecraft:acacia_trapdoor",

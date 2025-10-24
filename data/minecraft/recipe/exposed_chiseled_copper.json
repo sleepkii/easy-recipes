@@ -5,9 +5,7 @@
         "_"
     ],
     "key": {
-        "_": {
-            "item": "minecraft:exposed_cut_copper_slab"
-        }
+        "_": "minecraft:exposed_cut_copper_slab"
     },
     "result": {
         "id": "minecraft:air",

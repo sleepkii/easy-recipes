@@ -5,9 +5,7 @@
         "_"
     ],
     "key": {
-        "_": {
-            "item": "minecraft:oxidized_cut_copper_slab"
-        }
+        "_": "minecraft:oxidized_cut_copper_slab"
     },
     "result": {
         "id": "minecraft:oxidized_cut_copper",

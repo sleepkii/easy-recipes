@@ -4,9 +4,7 @@
         "__"
     ],
     "key": {
-        "_": {
-            "item": "minecraft:warped_slab"
-        }
+        "_": "minecraft:warped_slab"
     },
     "result": {
         "id": "minecraft:warped_trapdoor",
