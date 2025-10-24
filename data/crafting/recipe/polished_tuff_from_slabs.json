@@ -6,11 +6,11 @@
     ],
     "key": {
         "_": {
-            "item": "minecraft:tuff_brick_slab"
+            "item": "minecraft:polished_tuff_slab"
         }
     },
     "result": {
-        "id": "minecraft:air",
+        "id": "minecraft:polished_tuff",
         "count": 1
     }
 }
