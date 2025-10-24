@@ -30,3 +30,7 @@
 **Glass panes recipe:**
 ---
 ![1 glass block to craft 4 glass panes](https://cdn.modrinth.com/data/cached_images/0900b43aef38ffc9d9f124a71f61ecc9c7b06ba9_0.webp)
+
+**Glass recipe:**
+---
+![4 glass panes to craft 1 glass block](https://cdn.modrinth.com/data/cached_images/6f6da16908502afff54f3a56fe10a13eb4951977.png)
