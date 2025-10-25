@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:sandstone_slab",
+        "item": "minecraft:sandstone_slab",
         "count": 4
     }
 }

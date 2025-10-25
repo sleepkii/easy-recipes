@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:prismarine_brick_stairs",
+        "item": "minecraft:prismarine_brick_stairs",
         "count": 4
     }
 }

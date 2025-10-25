@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:polished_blackstone_pressure_plate",
+        "item": "minecraft:polished_blackstone_pressure_plate",
         "count": 3
     }
 }

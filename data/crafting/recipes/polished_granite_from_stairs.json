@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:polished_granite",
+        "item": "minecraft:polished_granite",
         "count": 3
     }
 }

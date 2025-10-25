@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:crimson_stairs",
+        "item": "minecraft:crimson_stairs",
         "count": 4
     }
 }

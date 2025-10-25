@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:prismarine",
+        "item": "minecraft:prismarine",
         "count": 3
     }
 }

@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:jungle_trapdoor",
+        "item": "minecraft:jungle_trapdoor",
         "count": 4
     }
 }

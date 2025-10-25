@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:bamboo_trapdoor",
+        "item": "minecraft:bamboo_trapdoor",
         "count": 4
     }
 }

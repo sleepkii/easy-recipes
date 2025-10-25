@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:andesite_slab",
+        "item": "minecraft:andesite_slab",
         "count": 4
     }
 }

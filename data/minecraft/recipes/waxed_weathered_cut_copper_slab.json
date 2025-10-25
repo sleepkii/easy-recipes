@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:waxed_weathered_cut_copper_slab",
+        "item": "minecraft:waxed_weathered_cut_copper_slab",
         "count": 4
     }
 }

@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:birch_trapdoor",
+        "item": "minecraft:birch_trapdoor",
         "count": 4
     }
 }

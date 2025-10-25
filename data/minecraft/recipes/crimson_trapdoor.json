@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:crimson_trapdoor",
+        "item": "minecraft:crimson_trapdoor",
         "count": 12
     }
 }

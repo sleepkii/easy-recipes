@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:warped_pressure_plate",
+        "item": "minecraft:warped_pressure_plate",
         "count": 3
     }
 }

@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:nether_bricks",
+        "item": "minecraft:nether_bricks",
         "count": 3
     }
 }

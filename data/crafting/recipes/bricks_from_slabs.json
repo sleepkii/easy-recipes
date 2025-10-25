@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:bricks",
+        "item": "minecraft:bricks",
         "count": 1
     }
 }

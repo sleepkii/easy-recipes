@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:polished_blackstone_brick_slab",
+        "item": "minecraft:polished_blackstone_brick_slab",
         "count": 4
     }
 }

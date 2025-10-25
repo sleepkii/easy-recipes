@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:mossy_cobblestone",
+        "item": "minecraft:mossy_cobblestone",
         "count": 3
     }
 }

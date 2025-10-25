@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:oak_trapdoor",
+        "item": "minecraft:oak_trapdoor",
         "count": 12
     }
 }

@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:acacia_pressure_plate",
+        "item": "minecraft:acacia_pressure_plate",
         "count": 3
     }
 }

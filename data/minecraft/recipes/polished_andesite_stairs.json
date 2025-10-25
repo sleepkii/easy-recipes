@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:polished_andesite_stairs",
+        "item": "minecraft:polished_andesite_stairs",
         "count": 4
     }
 }

@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:magenta_stained_glass_pane",
+        "item": "minecraft:magenta_stained_glass_pane",
         "count": 4
     }
 }

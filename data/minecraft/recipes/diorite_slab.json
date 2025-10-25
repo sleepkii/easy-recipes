@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:diorite_slab",
+        "item": "minecraft:diorite_slab",
         "count": 4
     }
 }

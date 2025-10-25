@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:cobblestone_slab",
+        "item": "minecraft:cobblestone_slab",
         "count": 4
     }
 }

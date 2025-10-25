@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:smooth_stone",
+        "item": "minecraft:smooth_stone",
         "count": 1
     }
 }

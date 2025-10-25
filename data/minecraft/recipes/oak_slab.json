@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:oak_slab",
+        "item": "minecraft:oak_slab",
         "count": 4
     }
 }

@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:quartz_stairs",
+        "item": "minecraft:quartz_stairs",
         "count": 4
     }
 }

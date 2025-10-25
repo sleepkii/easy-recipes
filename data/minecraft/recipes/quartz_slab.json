@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:quartz_block",
+        "item": "minecraft:quartz_block",
         "count": 4
     }
 }

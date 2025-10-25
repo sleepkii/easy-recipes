@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:orange_stained_glass",
+        "item": "minecraft:orange_stained_glass",
         "count": 1
     }
 }

@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:crimson_slab",
+        "item": "minecraft:crimson_slab",
         "count": 4
     }
 }

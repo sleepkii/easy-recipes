@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:cherry_slab",
+        "item": "minecraft:cherry_slab",
         "count": 4
     }
 }

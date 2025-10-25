@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:deepslate_bricks",
+        "item": "minecraft:deepslate_bricks",
         "count": 3
     }
 }

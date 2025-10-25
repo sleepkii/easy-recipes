@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:stone_brick_stairs",
+        "item": "minecraft:stone_brick_stairs",
         "count": 4
     }
 }

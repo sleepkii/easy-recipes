@@ -9,7 +9,7 @@
         }
     },
     "result": {
-        "id": "minecraft:bamboo_mosaic_slab",
+        "item": "minecraft:bamboo_mosaic_slab",
         "count": 4
     }
 }

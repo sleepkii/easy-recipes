@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:oak_planks",
+        "item": "minecraft:oak_planks",
         "count": 1
     }
 }

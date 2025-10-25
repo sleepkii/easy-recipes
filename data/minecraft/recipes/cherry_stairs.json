@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:cherry_stairs",
+        "item": "minecraft:cherry_stairs",
         "count": 4
     }
 }

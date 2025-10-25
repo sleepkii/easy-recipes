@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:smooth_quartz",
+        "item": "minecraft:smooth_quartz",
         "count": 1
     }
 }

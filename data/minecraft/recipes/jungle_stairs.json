@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:jungle_stairs",
+        "item": "minecraft:jungle_stairs",
         "count": 4
     }
 }

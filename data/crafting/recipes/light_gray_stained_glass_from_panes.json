@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "id": "minecraft:light_gray_stained_glass",
+        "item": "minecraft:light_gray_stained_glass",
         "count": 1
     }
 }
